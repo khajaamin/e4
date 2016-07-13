@@ -1,0 +1,150 @@
+[16-Feb-2016 11:04:50 UTC] PHP Fatal error:  Call to undefined method common\models\User::isVendor() in /home/sanahk/test_event4all/frontend/views/layouts/main.php on line 266
+[18-Feb-2016 16:06:54 UTC] PHP Fatal error:  Call to a member function getModels() on a non-object in /home/sanahk/test_event4all/frontend/views/site/vendordetails.php on line 221
+[26-Feb-2016 09:29:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2384592 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/web/View.php on line 174
+[26-Feb-2016 09:32:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2387968 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/web/View.php on line 180
+[26-Feb-2016 09:35:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2383796 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/web/View.php on line 174
+[26-Feb-2016 12:48:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2421755 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/web/View.php on line 174
+[26-Feb-2016 20:41:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2384665 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/web/View.php on line 174
+[01-Mar-2016 10:10:15 UTC] PHP Fatal error:  Call to a member function getModels() on a non-object in /home/sanahk/test_event4all/frontend/views/site/vendorinfo.php on line 756
+[01-Mar-2016 10:10:57 UTC] PHP Fatal error:  Call to a member function getModels() on a non-object in /home/sanahk/test_event4all/frontend/views/site/vendorinfo.php on line 756
+[16-Mar-2016 06:49:34 UTC] PHP Fatal error:  Class 'frontend\models\Yii' not found in /home/sanahk/test_event4all/frontend/models/PasswordResetRequestForm.php on line 50
+[22-Mar-2016 07:28:30 UTC] PHP Fatal error:  Class 'common\models\cities' not found in /home/sanahk/test_event4all/frontend/controllers/SiteController.php on line 767
+[22-Mar-2016 07:29:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[22-Mar-2016 07:29:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[22-Mar-2016 07:31:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[22-Mar-2016 07:34:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/di/ServiceLocator.php on line 122
+[22-Mar-2016 07:34:54 UTC] PHP Fatal error:  Class 'common\models\cities' not found in /home/sanahk/test_event4all/frontend/controllers/SiteController.php on line 767
+[22-Mar-2016 07:34:54 UTC] PHP Fatal error:  Class 'common\models\cities' not found in /home/sanahk/test_event4all/frontend/controllers/SiteController.php on line 767
+[22-Mar-2016 07:35:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[22-Mar-2016 07:36:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/di/ServiceLocator.php on line 122
+[30-Mar-2016 09:16:50 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\Replace() in /home/sanahk/public_html/frontend/controllers/LiveventsController.php on line 136
+[30-Mar-2016 09:16:52 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\Replace() in /home/sanahk/public_html/frontend/controllers/LiveventsController.php on line 136
+[30-Mar-2016 09:19:57 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\Replace() in /home/sanahk/public_html/frontend/controllers/LiveventsController.php on line 136
+[30-Mar-2016 09:54:13 UTC] PHP Fatal error:  Call to undefined method common\models\User::isAdmin() in /home/sanahk/public_html/frontend/views/layouts/main.php on line 56
+[30-Mar-2016 10:05:51 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\Replace() in /home/sanahk/public_html/frontend/controllers/LiveventsController.php on line 139
+[21-Apr-2016 19:03:59 UTC] PHP Fatal error:  Call to a member function getModels() on a non-object in /home/sanahk/public_html/frontend/views/site/index.php on line 145
+[28-May-2016 21:29:18 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:30:13 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:30:19 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:30:24 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:30:31 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:31:41 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:31:45 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:35:35 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:40:38 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:40:43 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:42:42 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:43:07 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:43:24 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[28-May-2016 21:44:26 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 05:34:28 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 05:34:30 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 05:38:27 UTC] An Error occurred while handling another error:
+exception 'ReflectionException' with message 'Class yii\web\urlManager does not exist' in /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('yii\\web\\urlMana...')
+#1 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('yii\\web\\urlMana...')
+#2 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('yii\\web\\urlMana...', Array, Array)
+#3 /home/sanahk/public_html/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('yii\\web\\urlMana...', Array, Array)
+#4 /home/sanahk/public_html/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /home/sanahk/public_html/vendor/yiisoft/yii2/di/ServiceLocator.php(71): yii\di\ServiceLocator->get('urlManagerCommo...')
+#6 /home/sanahk/public_html/frontend/views/layouts/main.php(36): yii\di\ServiceLocator->__get('urlManagerCommo...')
+#7 /home/sanahk/public_html/vendor/yiisoft/yii2/base/View.php(325): require('/home/sanahk/pu...')
+#8 /home/sanahk/public_html/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home/sanahk/pu...', Array)
+#9 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->renderFile('/home/sanahk/pu...', Array, Object(frontend\controllers\SiteController))
+#10 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Controller.php(372): yii\base\Controller->renderContent('<div class="sit...')
+#11 /home/sanahk/public_html/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#12 [internal function]: yii\web\ErrorAction->run()
+#13 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#14 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithParams(Array)
+#15 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#16 /home/sanahk/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(85): yii\base\Module->runAction('site/error')
+#17 /home/sanahk/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\base\InvalidConfigException))
+#18 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\InvalidConfigException))
+#19 {main}
+Previous exception:
+exception 'yii\base\InvalidConfigException' with message 'Unrecognized level: debug' in /home/sanahk/public_html/vendor/yiisoft/yii2/log/Target.php:179
+Stack trace:
+#0 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Component.php(169): yii\log\Target->setLevels(Array)
+#1 /home/sanahk/public_html/vendor/yiisoft/yii2/BaseYii.php(518): yii\base\Component->__set('levels', Array)
+#2 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Object.php(105): yii\BaseYii::configure(Object(yii\log\FileTarget), Array)
+#3 [internal function]: yii\base\Object->__construct(Array)
+#4 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(372): ReflectionClass->newInstanceArgs(Array)
+#5 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('yii\\log\\FileTar...', Array, Array)
+#6 /home/sanahk/public_html/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('yii\\log\\FileTar...', Array, Array)
+#7 /home/sanahk/public_html/vendor/yiisoft/yii2/log/Dispatcher.php(101): yii\BaseYii::createObject(Array)
+#8 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Object.php(107): yii\log\Dispatcher->init()
+#9 /home/sanahk/public_html/vendor/yiisoft/yii2/log/Dispatcher.php(89): yii\base\Object->__construct(Array)
+#10 [internal function]: yii\log\Dispatcher->__construct(Array)
+#11 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(372): ReflectionClass->newInstanceArgs(Array)
+#12 /home/sanahk/public_html/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('yii\\log\\Dispatc...', Array, Array)
+#13 /home/sanahk/public_html/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('yii\\log\\Dispatc...', Array, Array)
+#14 /home/sanahk/public_html/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#15 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('log')
+#16 /home/sanahk/public_html/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#17 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#18 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#19 /home/sanahk/public_html/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#20 /home/sanahk/public_html/frontend/web/index.php(17): yii\base\Application->__construct(Array)
+#21 {main}
+$_SERVER = [
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/courier-imap/sbin:/usr/lib/courier-imap/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'SHLVL' => '0',
+    'PHP_FCGI_MAX_REQUESTS' => '5000',
+    'SCRIPT_NAME' => '/frontend/web/index.php',
+    'REQUEST_URI' => '/frontend/web/index.php?r=site/vendorsignup',
+    'QUERY_STRING' => 'r=site/vendorsignup',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REMOTE_PORT' => '54407',
+    'SCRIPT_FILENAME' => '/home/sanahk/public_html/frontend/web/index.php',
+    'SERVER_ADMIN' => 'webmaster@eventforall.com',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/sanahk/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/sanahk/public_html',
+    'REMOTE_ADDR' => '103.243.114.158',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '166.62.28.88',
+    'SERVER_NAME' => 'www.eventforall.com',
+    'SERVER_SOFTWARE' => 'Apache/2.4.12',
+    'SERVER_SIGNATURE' => '',
+    'LD_LIBRARY_PATH' => '/usr/local/apache/lib',
+    'HTTP_COOKIE' => 'PHPSESSID=12de5a1adb260fd93495559a8c70a01b; G_ENABLED_IDPS=google; _csrf=e6e26e1a64845497663409d1a33a35434d7813f6441e4317b1d38af2cd11db00a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22nStr1TYdL5fzJ5Vk1YAyUZxnBqFBmRYG%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'www.eventforall.com',
+    'UNIQUE_ID' => 'V0qAU7YyhE4ACqVuCYUAAASQ',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/frontend/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1464500307.86141300201416015625,
+    'REQUEST_TIME' => 1464500307,
+    'argv' => [
+        'r=site/vendorsignup',
+    ],
+    'argc' => 1,
+]
+[29-May-2016 05:53:14 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 05:58:20 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 06:05:29 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 06:05:31 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 06:07:55 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 07:50:49 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:09:24 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:12:04 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:12:08 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:18:58 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:20:10 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:20:13 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:22:46 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:25:32 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:27:57 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:28:06 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382
+[29-May-2016 08:28:50 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/sanahk/public_html/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 382

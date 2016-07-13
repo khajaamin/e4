@@ -1,0 +1,65 @@
+[04-Mar-2016 09:06:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:03:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[04-Mar-2016 12:03:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/ActiveRecord.php on line 327
+[04-Mar-2016 12:03:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:03:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:03:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:04:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:04:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:05:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:05:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:05:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:06:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:06:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:10:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:10:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:10:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:12:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1066
+[04-Mar-2016 12:12:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:13:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:13:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:13:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:13:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:16:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/ActiveRecord.php on line 327
+[04-Mar-2016 12:29:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/ActiveRecord.php on line 327
+[04-Mar-2016 12:29:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1069
+[04-Mar-2016 12:31:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 128 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[04-Mar-2016 12:32:11 UTC] PHP Fatal error:  Call to a member function formName() on a non-object in /home/sanahk/test_event4all/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2074
+[04-Mar-2016 12:32:11 UTC] PHP Fatal error:  Call to a member function formName() on a non-object in /home/sanahk/test_event4all/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2074
+[04-Mar-2016 12:32:14 UTC] PHP Fatal error:  Call to a member function formName() on a non-object in /home/sanahk/test_event4all/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2074
+[04-Mar-2016 12:33:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/ActiveRecord.php on line 327
+[04-Mar-2016 12:34:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2097152 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[04-Mar-2016 12:34:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 128 bytes) in /home/sanahk/test_event4all/vendor/yiisoft/yii2/db/BaseActiveRecord.php on line 1092
+[08-Mar-2016 10:35:51 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:35:55 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:37:33 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:38:48 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:42:03 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:42:49 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 35
+[08-Mar-2016 10:45:25 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:45:29 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:46:48 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:47:24 UTC] PHP Fatal error:  Class 'common\models\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:49:21 UTC] PHP Fatal error:  Class 'backend\controllers\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:49:23 UTC] PHP Fatal error:  Class 'backend\controllers\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:49:25 UTC] PHP Fatal error:  Class 'backend\controllers\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:49:29 UTC] PHP Fatal error:  Class 'backend\controllers\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[08-Mar-2016 10:49:53 UTC] PHP Fatal error:  Class 'backend\controllers\SearchLivevents' not found in /home/sanahk/test_event4all/backend/controllers/LiveventsController.php on line 37
+[10-Mar-2016 13:05:46 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:08:11 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:09:01 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:10:07 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:11:49 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:11:55 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:14:04 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:14:06 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[10-Mar-2016 13:14:35 UTC] PHP Fatal error:  Class 'common\models\editbusiness' not found in /home/sanahk/test_event4all/backend/controllers/EditbusinessController.php on line 121
+[12-Mar-2016 16:21:38 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sanahk/test_event4all/backend/controllers/VendorsController.php on line 99
+[28-Mar-2016 05:49:14 UTC] PHP Fatal error:  Class 'DatePicker' not found in /home/sanahk/test_event4all/backend/views/latestpost/_form.php on line 33
+[30-Mar-2016 12:31:27 UTC] PHP Fatal error:  Class 'Breadcrumbs' not found in /home/sanahk/public_html/backend/views/layouts/main.php on line 138
+[30-Mar-2016 12:31:29 UTC] PHP Fatal error:  Class 'Breadcrumbs' not found in /home/sanahk/public_html/backend/views/layouts/main.php on line 138

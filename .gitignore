@@ -1,0 +1,51 @@
+su
+cdds
+efa
+admin_old
+admin
+test_eventforall
+frontend/runtime
+frontend/web/assets
+backend/runtime
+backend/web/assets
+
+admin.zip
+efa234.zip
+efa244.zip
+EFA_back_up_28316.zip
+eventforall30316.zip
+Eventforall31316.zip
+Eventforall5416.zip
+test_eventforall.zip
+su.zip
+
+# yii console command
+/yii
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
