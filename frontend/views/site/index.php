@@ -160,11 +160,34 @@ $this->title = 'Event For All';
 </div>          
 </div>
 <script type="text/javascript">
+
+  function setCookie(key, value) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (1 * 24 * 60 * 60 * 1000));
+            document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+        }
+
+        function getCookie(key) {
+            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+            return keyValue ? keyValue[2] : null;
+        }
+
 $(document).ready(function(){
     $(window).load(function(){
-        $('#myModal').modal('show');
+console.log(getCookie("skip_search_modal")); 
+
+    if(typeof getCookie("skip_search_modal") == "undefined" || getCookie("skip_search_modal") != 1)
+	{
+	        $('#myModal').modal('show');
+	}
     });
 
+$("#skip_search_modal").click(function(){
+
+	setCookie("skip_search_modal", 1);
+	        $('#myModal').modal('hide');
+   
+});
     $("#btnSearch").click(function(){
       var location = $( "#location" ).val();
       var bsc_name = $( "#category" ).val();
@@ -395,7 +418,11 @@ $(document).ready(function(){
     echo $form->field($model, 'email')->textInput(['maxlength' => true]);
     echo $form->field($model, 'contact')->textInput(['maxlength' => true]);
     echo '<div class="form-group"><p align="right">';
+
     echo Html::submitButton($model->isNewRecord ? Yii::t('app', 'Submit') : Yii::t('app', 'Update'), ['class' => $model->isNewRecord ? 'btn btn-success' : 'btn btn-primary']);
+
+    echo Html::Button("Skip for a day", ['class' =>  'btn btn-primary','id'=>'skip_search_modal','style'=>'margin-left:10px']);
+
     echo '</p></div></div>';
     ActiveForm::end();
     Modal::end();

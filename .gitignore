@@ -20,7 +20,7 @@ test_eventforall.zip
 su.zip
 
 # yii console command
-/yii
+#/yii
 
 # phpstorm project files
 .idea
@@ -37,7 +37,7 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
-/vendor
+#/vendor
 
 # composer itself is not needed
 composer.phar

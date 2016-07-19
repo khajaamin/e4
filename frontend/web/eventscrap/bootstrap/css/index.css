@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Belleza', sans-serif;
+    src: url('../fonts/Belleza-Regular.ttf');
+}
+.font-decoration {
+    font-family: Belleza;
+}
+.wrapper {
+    background-color: #2F4F4F;
+}

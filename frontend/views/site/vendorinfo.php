@@ -418,8 +418,17 @@ echo '<input type="hidden" value='.$_SESSION['bmc_id'].' id="bmc"/>';
              echo '<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">';
 
              echo '<a class="" href="?r=site/vendordetails&img_id='.$dp['ven_id'].'" method="get">';
-             echo "<img class='imginfo img-responsive img-thumbnail' src = '".\Yii::$app->urlManagerCommon->baseUrl."/".$dp['ven_business_logo']."' />";
 
+             if(!empty($dp['ven_business_logo']))
+             {
+                 echo "<img class='imginfo img-responsive img-thumbnail' src = '".\Yii::$app->urlManagerCommon->baseUrl."/".$dp['ven_business_logo']."' />";
+               }
+               else
+               {
+                 echo "<img class='imginfo img-responsive img-thumbnail' src = '".\Yii::$app->urlManagerCommon->baseUrl."/upload-image-for-eventforall.png' />";
+
+
+               }
              echo '</a>';
              echo '</div>';
              echo '<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 infoblock" value='.$dp['ven_id'].'>'; 
